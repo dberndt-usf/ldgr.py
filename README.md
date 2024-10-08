@@ -7,7 +7,7 @@ The <b>Account</b> class provides the basic functionality, including methods to 
 
 <h1>Acknowledgements</h1>
 
-Coordinator: Don Berndt (dberndt@usf.edu)
+Coordinator: Don Berndt (<a href="mailto:dberndt@usf.edu">dberndt@usf.edu</a>)
 
-Contributors (Committers): David Booders, Sonal Prabhune (C), Daniel Lasa
+Contributors (Committers): David Boogers, Sonal Prabhune (C), Daniel Lasa
 
